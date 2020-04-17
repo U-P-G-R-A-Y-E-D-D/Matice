@@ -1,2 +1,2 @@
 # Matice
-Příklad matice v C++
+ Matice v C++
